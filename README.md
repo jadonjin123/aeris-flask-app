@@ -1,4 +1,4 @@
-# aeris-flask-project
+# aeris-flask-app
 1. For Linux, install Docker Engine onto your machine.
 
 https://docs.docker.com/engine/install/
